@@ -368,3 +368,6 @@ which bash
 ARR=("a" "b" "c")
 echo ${ARR[1]}
 echo ${ARR[*]}
+declare -p
+clear
+declare -p ARR
