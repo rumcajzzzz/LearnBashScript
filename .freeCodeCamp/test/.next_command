@@ -411,3 +411,4 @@ __vsc_prompt_cmd_original
 clear
 asd
 clear
+./fortune.sh
