@@ -452,3 +452,4 @@ clear
 type then
 clear
 type bash
+type psql
