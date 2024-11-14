@@ -445,3 +445,6 @@ clear
 echo read
 clear
 type read
+clear
+tpye if
+type if
