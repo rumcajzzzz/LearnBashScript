@@ -380,3 +380,4 @@ clear
 help
 help until
 clear
+./fortune.sh
