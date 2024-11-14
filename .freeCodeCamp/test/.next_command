@@ -286,3 +286,4 @@ help let
 ec
 echo $I
 $((I+4))
+echo $((I+4))
