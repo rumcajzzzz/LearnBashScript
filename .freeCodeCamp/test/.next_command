@@ -242,3 +242,4 @@ sleep 3
 help while
 man while
 help while
+./countdown.sh 3
