@@ -52,3 +52,5 @@ __vsc_prompt_cmd_original
 ls --color=auto -l
 ls --color=auto -l
 ./questionnaire.sh
+./questionnaire.sh
+echo QUESTION1
