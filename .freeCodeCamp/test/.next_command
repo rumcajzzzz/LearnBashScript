@@ -243,3 +243,4 @@ help while
 man while
 help while
 ./countdown.sh 3
+./countdown.sh 5
