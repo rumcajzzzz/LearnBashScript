@@ -247,3 +247,4 @@ help while
 touch bingo.sh
 chmod +x bingo.sh
 which bash
+./bingo.sh
