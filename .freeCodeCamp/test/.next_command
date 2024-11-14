@@ -245,3 +245,4 @@ help while
 ./countdown.sh 3
 ./countdown.sh 5
 touch bingo.sh
+chmod +x bingo.sh
