@@ -191,3 +191,20 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 [[ 4 -ge 5 ]]
 [[ 10 -ne 5 ]]
+help if
+clear
+man if
+man
+man man
+__vsc_prompt_cmd_original
+help
+help if
+help
+help [[ expression ]]
+clear
+help
+clear
+man test
+__vsc_prompt_cmd_original
+clear
+bad_command
