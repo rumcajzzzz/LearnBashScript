@@ -422,3 +422,7 @@ cdmod
 cdmod --help
 chmod +x five.sh
 ./five.sh
+clear
+./five.sh
+__vsc_prompt_cmd_original
+clear
