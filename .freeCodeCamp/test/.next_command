@@ -155,3 +155,5 @@ clear
 ./countdown.sh 1
 ./countdown.sh arg1
 ./countdown.sh arg2
+./countdown.sh arg1
+./countdown.sh arg2
