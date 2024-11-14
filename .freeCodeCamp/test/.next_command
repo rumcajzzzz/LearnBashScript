@@ -387,3 +387,4 @@ clear
 help [[expression]]
 help [[ expression ]]
 [[ hello == hello ]]
+[[ hello == world ]]
