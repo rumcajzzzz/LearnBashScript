@@ -386,3 +386,4 @@ clear
 clear
 help [[expression]]
 help [[ expression ]]
+[[ hello == hello ]]
