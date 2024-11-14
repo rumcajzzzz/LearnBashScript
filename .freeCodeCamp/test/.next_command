@@ -432,3 +432,12 @@ help
 __vsc_prompt_cmd_original
 clear
 help type
+clear
+echo $type
+type doog
+help type
+clear
+type NAME
+type -a
+type -a echo
+type echo
