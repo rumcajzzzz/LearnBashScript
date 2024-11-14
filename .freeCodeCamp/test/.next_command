@@ -168,3 +168,7 @@ clear
 help test
 clear
 ./countdown.sh 5
+./countdown.sh [[4 -le 5]]
+[[4 -le 5]]
+__vsc_prompt_cmd_original
+[[ 4 -le 5 ]]
