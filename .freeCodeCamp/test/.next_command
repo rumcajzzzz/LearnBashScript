@@ -441,3 +441,7 @@ type NAME
 type -a
 type -a echo
 type echo
+clear
+echo read
+clear
+type read
