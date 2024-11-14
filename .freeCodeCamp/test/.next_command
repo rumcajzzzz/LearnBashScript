@@ -361,3 +361,6 @@ clear
 chmod -x fortune.sh
 __vsc_prompt_cmd_original
 chmod +x fortune.sh
+where bash
+bash where
+which bash
