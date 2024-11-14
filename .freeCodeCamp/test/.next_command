@@ -453,3 +453,4 @@ type then
 clear
 type bash
 type psql
+type ./five.sh
