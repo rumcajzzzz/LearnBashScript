@@ -381,3 +381,8 @@ help
 help until
 clear
 ./fortune.sh
+./fortune.sh
+./fortune.sh
+clear
+help [[expression]]
+help [[ expression ]]
