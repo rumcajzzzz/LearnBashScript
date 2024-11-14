@@ -454,3 +454,5 @@ clear
 type bash
 type psql
 type ./five.sh
+clear
+exit
