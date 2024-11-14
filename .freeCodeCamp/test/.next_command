@@ -142,3 +142,4 @@ clear
 c
 clear
 echo $*
+./countdown.sh
