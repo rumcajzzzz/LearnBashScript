@@ -184,3 +184,4 @@ echo [[ 4 -ge 5]]
 echo [[ 4 -ge 5 ]]
 [[ 4 -ge 5 ]]
 __vsc_prompt_cmd_original
+echo $?
