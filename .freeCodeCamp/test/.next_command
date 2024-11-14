@@ -353,3 +353,11 @@ clear
 ./bingo.sh
 clear
 touch fortune.sh
+cmod
+cmod --help
+--help
+help
+clear
+chmod -x fortune.sh
+__vsc_prompt_cmd_original
+chmod +x fortune.sh
