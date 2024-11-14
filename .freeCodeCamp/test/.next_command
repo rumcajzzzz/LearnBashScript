@@ -224,3 +224,4 @@ help test
 claer
 clear
 ./countdown.sh 1
+./countdown.sh 0
