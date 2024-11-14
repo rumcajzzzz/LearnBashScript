@@ -227,3 +227,4 @@ clear
 ./countdown.sh 0
 help
 clear
+./countdown.sh 10
