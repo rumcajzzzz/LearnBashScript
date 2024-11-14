@@ -318,3 +318,5 @@ clear
 ./bingo.sh
 ./bingo.sh
 clear
+HELP LET
+help let
