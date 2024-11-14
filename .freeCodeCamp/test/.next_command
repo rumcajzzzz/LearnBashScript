@@ -297,3 +297,4 @@ echo J
 echo $j
 echo $j
 echo $J
+declare -p
