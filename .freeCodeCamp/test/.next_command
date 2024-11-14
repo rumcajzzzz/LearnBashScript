@@ -364,3 +364,4 @@ chmod +x fortune.sh
 where bash
 bash where
 which bash
+./fortune.sh
