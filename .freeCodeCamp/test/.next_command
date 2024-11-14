@@ -45,3 +45,4 @@ which bash
 \d
 ls --color=auto
 ls --color=auto -l
+chmod +x questionnaire.sh
