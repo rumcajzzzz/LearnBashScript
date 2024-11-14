@@ -448,3 +448,5 @@ type read
 clear
 tpye if
 type if
+clear
+type then
