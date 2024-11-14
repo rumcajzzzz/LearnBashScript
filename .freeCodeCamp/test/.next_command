@@ -150,3 +150,7 @@ help
 __vsc_prompt_cmd_original
 man if
 help if
+clear
+./countdown.sh 2
+./countdown.sh 1
+./countdown.sh arg1
