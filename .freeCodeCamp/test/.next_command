@@ -166,3 +166,5 @@ help [[expression]]
 help [[
 clear
 help test
+clear
+./countdown.sh 5
