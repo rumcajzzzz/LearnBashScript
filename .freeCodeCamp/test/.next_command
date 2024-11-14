@@ -219,3 +219,7 @@ __vsc_prompt_cmd_original
 clear
 [[ -x countdown.sh && 5 -le 4 ]]
 [[ -x countdown.sh || 5 -le 4 ]]
+clear
+help test
+claer
+clear
