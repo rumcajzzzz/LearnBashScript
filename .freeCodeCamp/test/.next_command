@@ -280,3 +280,4 @@ clear
 I=0
 echo $I
 ((I++))
+echo $I
