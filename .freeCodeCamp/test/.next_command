@@ -365,3 +365,4 @@ where bash
 bash where
 which bash
 ./fortune.sh
+ARR=("a" "b" "c")
