@@ -160,3 +160,7 @@ clear
 ./countdown.sh 4
 ./countdown.sh 5
 help
+clear
+help if
+help [[expression]]
+help [[
