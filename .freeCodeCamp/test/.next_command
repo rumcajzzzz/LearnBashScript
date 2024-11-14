@@ -125,3 +125,4 @@ sl
 sl
 ./questionnaire.sh
 ./questionnaire.sh
+echo --help
