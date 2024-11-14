@@ -300,3 +300,4 @@ echo $J
 declare -p
 clear
 declare -p J
+declare -p RANDOM
