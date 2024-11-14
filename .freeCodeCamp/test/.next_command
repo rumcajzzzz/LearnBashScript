@@ -421,3 +421,4 @@ touch five.sh
 cdmod
 cdmod --help
 chmod +x five.sh
+./five.sh
