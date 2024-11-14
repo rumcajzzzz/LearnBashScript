@@ -371,3 +371,4 @@ echo ${ARR[*]}
 declare -p
 clear
 declare -p ARR
+./fortune.sh
